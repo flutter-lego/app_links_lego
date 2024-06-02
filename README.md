@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/app_links_lego.svg)](https://pub.dartlang.org/packages/app_links_lego)
 
 # app_links_lego
-description here
+lego that apply app_links.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.

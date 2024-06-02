@@ -1,7 +1,7 @@
 name: app_links_lego
-description: "lego is all you need"
+description: "lego that apply app_links."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/app_links_lego
 
 version: 1.0.0
 
